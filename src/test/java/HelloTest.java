@@ -3,6 +3,7 @@ public class HelloTest {
         System.out.println("Hello word test");
           System.out.println("Hello word test22222");
           System.out.println("Hel");
+        System.out.println(4+5);
 
     }
 }
