@@ -5,6 +5,7 @@ public class HelloTest {
 
         System.out.println(4+5);
         System.out.println(4+8);
+        System.out.println(48-10);
 
     }
 }
